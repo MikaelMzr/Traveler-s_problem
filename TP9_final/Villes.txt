@@ -1,0 +1,16 @@
+Solitude 1 1
+Epervine 2 2
+Markarth 3 1
+Morthal 5 1
+Faillaise 1 2
+Aubétoile 7 1
+Vendeaume 0 0
+Fordhiver 1 8
+Rivebois 4 6
+Helgen 6 4
+Fort-Ivar 5 5
+Rorikbourg 1 4
+Pondragon 7 7
+Pierre-de-Shor 9 9
+Kyne 8 1
+Corberoc 4 4
